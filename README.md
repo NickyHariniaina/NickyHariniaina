@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NickyHariniaina
-- 👀 I’m interested in Back-end work
+- 👀 I’m interested in JavaScript Framework and ML
 - 🌱 I’m currently learning *Java, Node.js, React and Go*
-- 💞️ I’m looking to collaborate on some front-end project, i'm ot really good at back-end now.
+- 💞️ I’m looking to collaborate JavaScript project, especially react.js and node.js.
 - 📫 How to reach me:
 **Facebook** : Nicky Hariniaina
 **Instagram** : nicky_hariniaina
