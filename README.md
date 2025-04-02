@@ -1,8 +1,4 @@
 # Useless information :
-A JavaScript developer using:
-- React ( dom / native )
-- Jquery
-- Node.js
-Illustration:
+A JavaScript developer 
 -------------------------
 ![image](./image.jfif)
