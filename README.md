@@ -1,4 +1,3 @@
-# Useless information :
-A JavaScript developer 
+aaaah
 -------------------------
 ![image](./image.jfif)
